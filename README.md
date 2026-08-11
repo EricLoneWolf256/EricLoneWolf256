@@ -7,7 +7,6 @@
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=EricLoneWolf256&theme=github-dark&mode=light" />
