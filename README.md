@@ -1,8 +1,5 @@
 # EricLoneWolf256
 
-
-
-Hi, I'm **EricLoneWolf256**. This README is tuned for **get hired** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=EricLoneWolf256&theme=github-dark&mode=light" />
